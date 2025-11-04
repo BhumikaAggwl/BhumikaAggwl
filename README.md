@@ -17,14 +17,19 @@
 
 ### 🚀 Featured Projects
 
-🔹 **[Virtual Makeup Try-On](https://github.com/BhumikaAggwl/Virtual-Makeup-Try-on/tree/patch-2)**  
-💄 A fun AI project using computer vision to virtually apply makeup in real time.  
-
 🔹 **[AI Email Analyser](https://github.com/BhumikaAggwl/ai_email_analyser)**  
 📬 Uses NLP and machine learning to categorise and summarise emails — a step toward smarter inboxes.  
 
 🔹 **[ChatterBot TTS](https://github.com/BhumikaAggwl/chatterbot_tts)**  
 🗣️ An interactive chatbot that speaks! Combines conversational AI with text-to-speech models.  
+
+🔹 **[Urban Retail Co. – Inventory Management SQL Solution](https://github.com/BhumikaAggwl/Sql_project)**  
+📊 A SQL-based data management system for an urban retail chain — streamlining inventory tracking and analytics.  
+
+
+🔹 **[Virtual Makeup Try-On](https://github.com/BhumikaAggwl/Virtual-Makeup-Try-on/tree/patch-2)**  
+💄 A fun AI project using computer vision to virtually apply makeup in real time.  
+
 
 ---
 
