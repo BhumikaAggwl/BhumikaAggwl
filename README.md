@@ -40,6 +40,19 @@
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhumikaAggwl&show_icons=true&theme=radical" alt="Bhumika's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaAggwl&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhumikaAggwl&theme=radical" alt="GitHub Streak Stats" height="165"/>
+</p>
+
+---
+
 ### 🌈 A Little About Me
 When I’m not coding or training a model, you’ll probably find me:
 - 🏋️‍♀️ Working out or chilling with a good playlist  
